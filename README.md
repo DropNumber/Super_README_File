@@ -32,3 +32,5 @@ Sheilds
 About Author
 
 **Contributors:**  How to contribute
+
+**Github** markdown info [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists) and [here](https://help.github.com/categories/writing-on-github/)
