@@ -1,4 +1,4 @@
-# Super_README_File
+## Super_README_File
 The anatomy of a great readme file and what should go inside of it.
 
 **Title:** The title of the project and maybe a logo
@@ -14,7 +14,7 @@ Short description
 
 Supported versions
 
-**Examples**
+**Examples**  `example code`
 
 **Issues/ known bugs**
 **FAQ**
