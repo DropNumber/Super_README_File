@@ -27,7 +27,7 @@ Supported versions
 Sheilds
 
 **License:** Licencing Type and maybe a link to it.
-
+Picking the proper license [HELP](https://choosealicense.com/)
 
 About Author
 
