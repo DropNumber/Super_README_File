@@ -1,34 +1,34 @@
 # Super_README_File
 The anatomy of a great readme file and what should go inside of it.
 
-Title: The title of the project and maybe a logo
+**Title:** The title of the project and maybe a logo
 Short description
 
-Documentation: Dependencies and usage.  What steps to get this code up and running.  
+**Documentation:** Dependencies and usage.  What steps to get this code up and running.  
 
-Table of contents
+**Table of contents**
 
-Installation
+**Installation**
 
 
 
 Supported versions
 
-Examples
+**Examples**
 
-Issues/ known bugs
-FAQ
-
-
-Special instructions
+**Issues/ known bugs**
+**FAQ**
 
 
-More Information
+**Special instructions**
+
+
+**More Information**
 Sheilds
 
-License: Licencing Type and maybe a link to it.
+**License:** Licencing Type and maybe a link to it.
 
 
 About Author
 
-Contributors:  How to contribute
+**Contributors:**  How to contribute
